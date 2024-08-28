@@ -1,11 +1,18 @@
 # Kickstarter Dashboard: Insights into Creative Crowdfunding
 
 ## Introduction
+
 Kickstarter is a pioneering crowdfunding platform that has transformed the way creative projects are funded. This project analyzes a dataset from Kickstarter covering the years 2012-2013, using Power BI to derive insights into project success rates, funding trends, and category performance. The findings aim to help creators understand the dynamics of crowdfunding and improve their chances of success.
+
+![Screenshot 2024-08-28 135541](https://github.com/user-attachments/assets/80493631-89e4-410f-b104-32c6925d7c90)
 
 ## Insights
 - **Project Growth**: The number of projects increased slightly from 41,000 in 2012 to 45,000 in 2013, with the United States leading in project volume, followed by the United Kingdom.
+
 - **Category Success Rates**: Art subcategories like ceramics, video art, textiles, and installations boast a 100% success rate, while comics, including anthologies, comic books, events, graphic novels, and web comics, achieve a 51% success rate. Technology subcategories such as apps, DIY electronics, gadgets, and space exploration also demonstrate impressive success rates of 100%.
+
+![image](https://github.com/user-attachments/assets/651842c8-5a1a-41de-a650-0ed327eb264e)
+
 
 - **Early Backing Impact**: If a project secures 47 or more backers within the first 31 days of its launch, its chances of success increase by 3.56 times.
 
@@ -19,6 +26,8 @@ Kickstarter is a pioneering crowdfunding platform that has transformed the way c
 
 ## Conclusion
 The insights gained from this analysis offer valuable guidance for creators looking to launch successful Kickstarter campaigns. By understanding the factors that contribute to project success, creators can strategize their campaigns more effectively, connect with the right backers, and bring their creative visions to life. As Kickstarter continues to evolve, this project serves as a testament to the platform's transformative impact on the world of crowdfunding and creative entrepreneurship.
+
+![image](https://github.com/user-attachments/assets/ebda5fc1-e17e-408e-96b6-a65d3ca507d7)
 
 ## Files in the Repository
 - **KickStarter.pdf**: Detailed report of the analysis.
