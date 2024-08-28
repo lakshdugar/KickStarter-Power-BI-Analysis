@@ -10,8 +10,8 @@ Kickstarter is a pioneering crowdfunding platform that has transformed the way c
 
 ## Getting Started
 To explore the insights:
-1. Open the `KickStarter.Pbix` file in Power BI to view the interactive dashboard.
+1. Open the `KickStarter.pbix` file in Power BI to view the interactive dashboard.
 2. Review the `KickStarter.pdf` for detailed analysis and findings.
-3. Use the `Presentation.ppt` to present the insights to others.
+3. Use the `Presentation.pptx` to present the insights to others.
 
 Feel free to explore the files, and let me know if you have any questions or need further assistance!
