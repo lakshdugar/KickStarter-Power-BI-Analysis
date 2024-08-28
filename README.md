@@ -1,4 +1,3 @@
-# My-Projects
 # Kickstarter Dashboard: Insights into Creative Crowdfunding
 
 ## Introduction
