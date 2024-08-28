@@ -36,8 +36,7 @@ The insights gained from this analysis offer valuable guidance for creators look
 
 ## Getting Started
 To explore the insights:
-1. Open the `KickStarter.pbix` file in Power BI to view the interactive dashboard.
-2. Review the `KickStarter.pdf` for detailed analysis and findings.
-3. Use the `Presentation.pptx` to present the insights to others.
+1. Review the [KickStarter.pdf](https://github.com/user-attachments/files/16780669/KickStarter.pdf) for detailed analysis and findings.
+2. Use the  [Presentation.pptx](https://github.com/user-attachments/files/16780676/Presentation.pptx) to present the insights to others.
 
 Feel free to explore the files, and let me know if you have any questions or need further assistance!
